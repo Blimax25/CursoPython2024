@@ -1,0 +1,1 @@
+print('Estudiar con "Pyhton Total" es super divertido')

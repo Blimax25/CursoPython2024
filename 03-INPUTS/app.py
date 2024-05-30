@@ -1,6 +1,6 @@
 # Solicitar informacion del cliente
 #input("Dime tu nombre: ")
-#input("Dime tu appellido> ")
+#input("Dime tu appellido: ")
 """
 Creacion de inputs y 
 usando el print
